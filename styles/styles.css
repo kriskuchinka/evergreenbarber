@@ -1,0 +1,25 @@
+/* Row 1 Styling */
+.row_1 {
+    display: flex;
+}
+
+.row_1_column_left {
+    width: 25%;
+    background-color: #B58DE5;
+    height: 500px;
+}
+
+.row_1_column_right {
+    /* justify-content: ; */
+    width: 75%;
+    /* background-color: #030303; */
+    height: 5000px;
+}
+
+.logo {
+    background-image: url('../images/logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height:750px;
+}
